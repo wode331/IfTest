@@ -72,8 +72,6 @@ public class Demo{   //class,是java的组成的零部件,class叫做类,java程
         int account = 742494484;
         int password = 53321;
         if(account == 742494484){
-
-
         }
 
     }
