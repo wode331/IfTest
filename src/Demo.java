@@ -9,6 +9,7 @@ public class Demo{   //class,是java的组成的零部件,class叫做类,java程
     //这是写java程序的区域
     //java是从一个特殊的位置开始读: main方法:是程序的入口
     public static void main(String[] args){
+        System.out.println("加入一行命令");
         //让程序做一件事,按照的我的要求,输出一句话
          /*
          注释:
@@ -73,6 +74,8 @@ public class Demo{   //class,是java的组成的零部件,class叫做类,java程
         int password = 53321;
         if(account == 742494484){
         }
+
+
 
     }
 
