@@ -27,7 +27,6 @@ public class Demo{   //class,是java的组成的零部件,class叫做类,java程
             表达式:
             算术表达式:+ - * /
             比较表达式:>  >=  <   <=   ==  !=
-
              */
             System.out.println(10>5);
             System.out.println(10>=5);
